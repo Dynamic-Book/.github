@@ -3,7 +3,7 @@
 A **Dy**namic **bo**ok for education
 
 ## Why Dybo?
-<p class="text-justify">At present time, in the XXIe centuries, students and teachers are still mostly operating on an analog paper-pen base environment, mainly because of the ubiquitous nature of this setting. It results in heavy and some time huge bags for the learners, particularly the younger ones at secondary I. When digital environments are used it is most of the time cumbersome, fragmented, non ubiquitous, lacking interactivity, closed source with few liberties to extend the system, with non dedicated hardware and few added value for the local economy.</p>
+At present time, in the XXIe centuries, students and teachers are still mostly operating on an analog paper-pen base environment, mainly because of the ubiquitous nature of this setting. It results in heavy and some time huge bags for the learners, particularly the younger ones at secondary I. When digital environments are used it is most of the time cumbersome, fragmented, non ubiquitous, lacking interactivity, closed source with few liberties to extend the system, with non dedicated hardware and few added value for the local economy.
 
 The Dybo project takes both a software and hardware approaches to bring efficiency to teachers and students to manage their job of teaching and learning. We want the same efficiency observed in other sectors of the economy where the digital transition brought important benefits for efficiency and agility.
 
