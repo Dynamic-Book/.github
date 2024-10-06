@@ -11,7 +11,7 @@ To emphasis the importance of both dedicated software and hardware carefully des
 
 ## Key features
 ### Software
-The Dybo application -- DyboApp -- provides both business[1](#footnotes) and pedagogical means to improve the user experience of learning and teaching. Putting out anxiety from the persons improves their wellness and ability to conduct tasks. The Dybo application is developed in Cuis-Smalltalk, it ensures rapid prototyping, agile development, portability to different hardware architecture, step-by-step control by the user.
+The Dybo application -- DyboApp -- provides both business[[1]](#footnotes) and pedagogical means to improve the user experience of learning and teaching. Putting out anxiety from the persons improves their wellness and ability to conduct tasks. The Dybo application is developed in Cuis-Smalltalk, it ensures rapid prototyping, agile development, portability to different hardware architecture, step-by-step control by the user.
 
 The application operates under a GNU/Linux operating system, it provides the needed third-party supports.
 
@@ -50,5 +50,7 @@ Moreover, our development models[3](#footnotes) make these end-user software lea
 
 ##### Footnotes 
 [1] Old English bisignis ‘anxiety’ (see busy, -ness); the sense ‘state of being busy’ was used from Middle English down to the 18th century.
+
 [2] Smalltalk is by essence an agile language and development environment.
+
 [3] Smalltalk and free software
