@@ -36,21 +36,22 @@ Administrating a fleet of free software systems proved to be easier by avoiding 
 
 Being a free project, it eases the collaboration with individuals, groups, institutions, corporations without the fear of the project being privatized. Each participant contributes in respect to its own interests.
 
-
 While it is both a software and hardware project, the DyboApp software could be installed on your own device, preferably a GNU/Linux system to enjoy all its  features.
 
-We encourage developers to join this exciting project where you can gain tremendous experiences in agile software development[2](#footnotes), GNU/Linux system, hardware design and prototyping with the interim Dybo.
+We encourage people with different type of experience to join this exciting and versatile project where you can gain tremendous experiences. 
 
-We welcome Smalltalk and GNU/Linux system developers, educators, hardware specialits, designers and testers. Visit our [Dybo GitHub organisation's repositories](https://github.com/orgs/Dynamic-Book/repositories).
+**Educators and learners** to test and to bring pedagogical feedback on the design. **Teachers** experience is invaluable in the design of pedagogical contents in the form of digital courses and ideas of dynamic knowledge models.
+
+We welcome **developers** in agile software development[[2]](#footnotes), GNU/Linux system development and administration and **hardware specialists** to design and prototyping the interim Dybo.
+
+Visit our [Dybo GitHub organisation's repositories](https://github.com/orgs/Dynamic-Book/repositories).
 
 ## Community
 The Dybo project is build with enthusiastic persons for whom the values of free software and hardware are central. We cherish agile development thanks to our Cuis-Smalltalk development system. With this system we explore new way to design both end-user applications and dynamic knowledge models for the educators and the learners. 
 
-Moreover, our development models[3](#footnotes) make these end-user software learnable, modifiable and driven by script. We truly believe in empowering the end-user by providing the appropriate environment and tools.
+Moreover, our development models[[3]](#footnotes) make these end-user software learnable, modifiable and driven by script. We truly believe in empowering the end-user by providing the appropriate environment and tools.
 
 ##### Footnotes 
-[1] Old English bisignis ‘anxiety’ (see busy, -ness); the sense ‘state of being busy’ was used from Middle English down to the 18th century.
-
-[2] Smalltalk is by essence an agile language and development environment.
-
-[3] Smalltalk and free software
+[1] Old English bisignis ‘anxiety’ (see busy, -ness); the sense ‘state of being busy’ was used from Middle English down to the 18th century.<br/>
+[2] Smalltalk is by essence an agile language and development environment.<br/>
+[3] Smalltalk and free software<br/>
