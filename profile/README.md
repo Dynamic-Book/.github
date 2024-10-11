@@ -17,7 +17,7 @@ The application operates under a GNU/Linux operating system, it provides the nee
 
 * **Business.** This software layer is the main gate for the teachers and students to interact with the system. Its features are interconnected to maximize user comfort and to save time. It anticipates the user needs depending on the location in time and space: home, school, class, with which collaborators.
 
-* **Pedagocial.** The pedagogical documents are based on hand annotated pdf documents (with a stylus) and dynamic knowledge model objects plugged-in when needed. These learning materials are organized in topics and binders. The plugged models are retrieved from existing libraries of scripts, used as is or edited by the user with the Smalltalk programming language. 
+* **Pedagocial.** The pedagogical documents are based on hand annotated pdf documents (with a stylus) and **dynamic knowledge model** objects plugged-in when needed. These learning materials are organized in topics and binders. The plugged models are retrieved from existing libraries of scripts, used as is or edited by the user with the Smalltalk programming language. 
 
 ### Hardware
 The Dybo hardware overall look is a digital analogy of a 24x32 (cm) textbook -- roughly a 15.7 inches display -- designed for longevity with the following features:
@@ -42,7 +42,7 @@ We encourage people with different type of experience to join this exciting and 
 
 **Educators and learners** to test and to bring pedagogical feedback on the design. **Teachers** experience is invaluable in the design of pedagogical contents in the form of digital courses and ideas of dynamic knowledge models.
 
-We welcome **developers** in agile software development[[2]](#footnotes), GNU/Linux system development and administration and **hardware specialists** to design and prototyping the interim Dybo.
+We welcome **developers** in agile software development[[2]](#footnotes), GNU/Linux system development and administration and **hardware specialists** to design and to prototype the interim Dybo. [Read our doc](https://github.com/Dynamic-Book/doc) for more information.
 
 Visit our [Dybo GitHub organisation's repositories](https://github.com/orgs/Dynamic-Book/repositories).
 
