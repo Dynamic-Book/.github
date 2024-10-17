@@ -24,7 +24,7 @@ The Dybo hardware overall look is a digital analogy of a 24x32 (cm) textbook -- 
 * handwriting on one or two of its screens, may be one e-ink screen and one color screen
 * RISC V or ARM architectures
 * Cylindrical battery cells
-* Easy to reaper 
+* Easy to repair
 
 The interim Dybo will have a different settings. Its purpose is to explore the concept with prototypes build with off-the-shell components.
 
