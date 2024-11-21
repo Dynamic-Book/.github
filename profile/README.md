@@ -51,6 +51,18 @@ The Dybo project is build with enthusiastic persons for whom the values of free 
 
 Moreover, our development models[[3]](#footnotes) make these end-user software learnable, modifiable and driven by script. We truly believe in empowering the end-user by providing the appropriate environment and tools.
 
+## Development schedule
+
+A mere schedule to develop and to test iteratively, in chronological order, with overlaps.
+
+* Develop the DyboApp prototype
+* Test DyboApp in school and iterate with the development (1 or 2 users, teachers)
+* Develop Dybo prototype with existing hardware
+* Develop Dybo operating system
+* Test DyboApp in school and iterate with the development (tenth of users, teachers)
+* Test Dybo hardware in school and iterate on the hardware and software (1 or 2 users, teachers)
+* Test Dybo hardware and software with one classroom (30 users, students and teachers)
+
 ##### Footnotes 
 [1] Old English bisignis ‘anxiety’ (see busy, -ness); the sense ‘state of being busy’ was used from Middle English down to the 18th century.<br/>
 [2] Smalltalk is by essence an agile language and development environment.<br/>
