@@ -20,7 +20,7 @@ The application operates under a GNU/Linux operating system, it provides the nee
 * **Pedagocial.** The pedagogical documents are based on hand annotated pdf documents (with a stylus) and **dynamic knowledge model** objects plugged-in when needed. These learning materials are organized in topics and binders. The plugged models are retrieved from existing libraries of scripts, used as is or edited by the user with the Smalltalk programming language. 
 
 ### Hardware
-The Dybo hardware overall look is a digital analogy of a 24x32 (cm) textbook -- roughly a 15.7 inches display -- designed for longevity with the following features:
+The Dybo hardware overall look is a digital analogy of a 210x297 (mm) textbook -- roughly a 14.3 inches display -- designed for longevity with the following features:
 * handwriting on one or two of its screens, may be one e-ink screen and one color screen
 * RISC V or ARM architectures
 * Cylindrical battery cells
